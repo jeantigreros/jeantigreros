@@ -7,6 +7,7 @@ I'm a software developer, currently studying Systems Engineering
 
 ## 🌱 Currently Learning:
 - JavaScript | TypeScript
+- C
 - NodeJS, Express
 - Python
 - Rust 
