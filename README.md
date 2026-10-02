@@ -22,7 +22,7 @@ Currently pivoting fully into **data engineering**, with a growing interest in *
 
 ## 🚀 Featured projects
 
-From [my portfolio](../porfolio):
+From [my portfolio](https://www.github.com/jeantigreros/porfolio):
 
 | Project | What it is | Stack |
 |---|---|---|
